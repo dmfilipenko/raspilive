@@ -21,6 +21,7 @@ Flags:
       --height int        video height (default 720)
   -h, --help              help for raspilive
       --horizontal-flip   horizontally flip video
+      --no-preview        disable preview mode
   -v, --version           version for raspilive
       --vertical-flip     vertically flip video
       --width int         video width (default 1280)
@@ -95,6 +96,7 @@ Global Flags:
       --fps int           video framerate (default 30)
       --height int        video height (default 720)
       --horizontal-flip   horizontally flip video
+      --no-preview        disable preview mode
       --vertical-flip     vertically flip video
       --width int         video width (default 1280)
 ```
